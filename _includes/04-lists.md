@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Here is a list of my favourite movies:
+- Lord of the rings
+- Shot caller
+- Gentlemen
+- Green book
+- Forrest Gump
